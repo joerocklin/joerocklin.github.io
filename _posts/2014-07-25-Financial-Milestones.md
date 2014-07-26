@@ -4,7 +4,7 @@ title: Financial Milestones
 tags: finance
 ---
 
-Our culture has a few taboo subjects of which you can probably name a few without much thought. One you may not think of is personal finance. For some reason we consider finances one of the most private of topics. There are some companies who are experimenting with open salaries with varying responses [^PME550]. This post is not about salaries.
+Our culture has a few taboo subjects of which you can probably name a few without much thought. One you may not think of is personal finance. For some reason we consider finances one of the most private of topics. There are some companies who are experimenting with open salaries with varying responses [^PME550], but this post is not about salaries.
 
 This post is about the celebrations that occur at various personal milestone events in life. These celebrations are warranted and welcomed, as everyone generally understands their significance. There are also expected timeframes in ones life when these events are supposed to happen. When someone achieves a milestone earlier than expected it is very easy for others to view the announcement as boastful, and this is unfortunate.
 
