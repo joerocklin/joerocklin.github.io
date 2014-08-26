@@ -5,7 +5,7 @@ tags: coffee
 ---
 I was recently asked about pulling together a coffee care package geared toward making coffee. This question intrigued me and I quickly came up with a few options. Below you will find the lists for a few different goals with coffee preparation.
 
-*Note* - If you do not see Amazon widgets below, try turning off ad blockers for Amazon on this page.
+*Note* - If you do not see Amazon widgets below, try turning off ad blockers for Amazon on this page. These are affiliate links. I haven't been given any of the items here for review.
 
 ## Fresh Coffee
 
