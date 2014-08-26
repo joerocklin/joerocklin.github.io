@@ -9,7 +9,7 @@ I was recently asked about pulling together a coffee care package geared toward 
 
 ## Fresh Coffee
 
-In all cases, buy coffee fresh. Buy just what your going to need for between one to three weeks, use it, then buy more. Coffee is a perishable good and will go rancid quite quickly. Most quality roasters will ship orders within a day or so of roasting. By the time it reaches your door it will be ready for use.
+In all cases, buy coffee fresh. Buy just what you're going to need for between one to three weeks, use it, then buy more. Coffee is a perishable good and will go rancid quite quickly. Most quality roasters will ship orders within a day or so of roasting. By the time it reaches your door it will be ready for use.
 
 If it's possible, find a quality roaster in your area. If you're lucky enough to have more than one nearby, check out a few of them. Talk to them about what their goals are for their roasts. Ask if you can do a cupping with them sometime to learn more.
 
@@ -35,9 +35,9 @@ Just the basics please! This is the basic way to serve coffee for one or maybe t
 
 # Small Group
 
-Coffee is great, sharing coffee with someone else is wonderful. If you have two to three people looking for a cup of coffee after dinner, this setup will work quite well. Again all you need is a way to get hot water.
+Coffee is great; sharing coffee with someone else is wonderful. If you have two to three people looking for a cup of coffee after dinner, this setup will work quite well. Again all you need is a way to get hot water.
 
-This group includes a hand grinder. If you make coffee often enough, this will get tedious and you will want to upgrade to an electric grinder. It is important to not skimp on a grinder. See [Baratza's](https://www.baratza.com) excellent line of options. And if you want a deal, they put their [refurbished options](http://bit.ly/19ee7cB) online Thursday mornings.
+This group includes a hand grinder. If you make coffee often enough, this will get tedious and you will want to upgrade to an electric grinder. It is important not to skimp on a grinder. See [Baratza's](https://www.baratza.com) excellent line of options. And if you want a deal, they put their [refurbished options](http://bit.ly/19ee7cB) online Thursday mornings.
 
 <center>
 <SCRIPT charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?rt=ss_mfw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fjoerocsblo-20%2F8001%2F0a2cee39-38e6-488f-b528-2f6e8c70e7f6"> </SCRIPT> <NOSCRIPT><A HREF="http://ws-na.amazon-adsystem.com/widgets/q?rt=ss_mfw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fjoerocsblo-20%2F8001%2F0a2cee39-38e6-488f-b528-2f6e8c70e7f6&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>
