@@ -7,7 +7,7 @@ I was recently asked about pulling together a coffee care package geared toward 
 
 *Note* - If you do not see Amazon widgets below, try turning off ad blockers for Amazon on this page.
 
-### Fresh Coffee
+## Fresh Coffee
 
 In all cases, buy coffee fresh. Buy just what your going to need for between one to three weeks, use it, then buy more. Coffee is a perishable good and will go rancid quite quickly. Most quality roasters will ship orders within a day or so of roasting. By the time it reaches your door it will be ready for use.
 
@@ -17,7 +17,9 @@ Try to stay away from any flavored beans. These flavors are usually added as oil
 
 If you're in Cincinnati (or passing through) check out [Deeper Roots Coffee](http://www.deeperrootscoffee.com). They offer weekly cuppings that are open to the public and strongly believe in education and training. Ask questions and discover new things!
 
-## Single Serve Coffee
+------
+
+# Single Serve Coffee
 
 Just the basics please! This is the basic way to serve coffee for one or maybe two. All you need is a way to get hot water. Excluding the glasses, this can also be used as a decent camping setup!
 
@@ -29,7 +31,9 @@ Just the basics please! This is the basic way to serve coffee for one or maybe t
 2. **Hario Slim Grinder** - A compact little grinder than will work well with the aeropress.
 3. **Bodum Pavina Glasses** - These are some of my favorite glasses. They look great, and are the proper size for coffee from the aeropress - just make sure to get the 8.5oz size!
 
-## Small Group
+------
+
+# Small Group
 
 Coffee is great, sharing coffee with someone else is wonderful. If you have two to three people looking for a cup of coffee after dinner, this setup will work quite well. Again all you need is a way to get hot water.
 
@@ -45,7 +49,9 @@ This group includes a hand grinder. If you make coffee often enough, this will g
 4. **Filters** - The V60 uses a conical filter without a flat bottom. They're cheap enough and easy to get from Amazon.
 5. **Bodum Pavina Glasses** - Still great glasses!
 
-## Splurge Setup
+------
+
+# Splurge Setup
 
 Whether you're serving coffee regularly, or just want to ensure you can repeatably produce an excellent cup, here's a list to get you moving. It builds on the small group setup and adds some options for larger groups.
 
