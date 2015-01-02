@@ -1,6 +1,6 @@
 ---
 layout: post
-title: journaling
+title: Journaling
 date: "2015-01-01 20:07"
 ---
 
