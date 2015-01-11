@@ -22,4 +22,4 @@ As saying goes:
     If you still don't know: teach a class.
     If you still don't know: write a book.
 
-Next time you see me: ask me how this project is going. I have already made some significant strides towards my first milestone - at least, for someone starting from scratch!
+I've asked, and read books. So next time you see me: ask me how this project is going. I have already made some significant strides towards my first milestone - at least, for someone starting from scratch! Now to start looking around for possible conferences...
