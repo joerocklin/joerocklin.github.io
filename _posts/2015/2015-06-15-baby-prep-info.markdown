@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baby Prep Info
-date: "2015-06-154"
+date: "2015-06-15"
 ---
 
 In March of 2014 we welcomed our first child into our family. We had no clue what we were doing (and still feel like we don't on a lot of days) but did a lot of research to learn as much as we could before the baby arrived. So we've collected links and comments about what worked for us. This is in no way us saying 'this is what you have to do'! Hopefully you'll find some of this useful in your own research!
