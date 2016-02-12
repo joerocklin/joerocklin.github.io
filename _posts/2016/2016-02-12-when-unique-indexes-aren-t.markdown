@@ -1,7 +1,9 @@
 ---
-layout: "post"
-title: "When Unique Indexes Aren't"
-date: "2016-02-12"
+layout:     post
+title:      When Unique Indexes Aren't
+date:       2016-02-12
+summary:    Sometimes indexes don't do what you expect
+categories: databases tips
 ---
 
 I'm in the process of developing a new API to lay down on an existing application. I won't go into too many details about the existing application, but let's just say that the requirement to add an API meant developing a new API application. The way the interactive application was written did not allow for adding another interface layer. So: interactive app written in perl/CGI, new app is Rails (4.x). Both have to work with the same database, and the long-term goal is to transition the interactive app to something which leverages the API and doesn't do direct database access.
