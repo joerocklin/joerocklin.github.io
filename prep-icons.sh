@@ -36,7 +36,7 @@ else
 		convert $1 -resize 96x96   $target/favicon-96x96.png
 		convert $1 -resize 160x160 $target/favicon-160x160.png
 		convert $1 -resize 160x160 $target/favicon-160x160.ico
-		convert $1 -resize 192x192 $target/favicon-192.192.png
+		convert $1 -resize 192x192 $target/favicon-192x192.png
 
 		convert $1 -resize 64x64   $target/favicon.ico
 		set +x
